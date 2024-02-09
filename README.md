@@ -39,4 +39,4 @@ The project structure facilitates easy comparison and decision-making based on t
 
 2. **Bar Chart:**
 The bar chart visually represents the performance metrics of each model, providing an easy-to-understand comparison.
-![Alt Text](BarChart.png)
+![Alt Text](barChart.png)
